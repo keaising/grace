@@ -1,7 +1,7 @@
 markdown: rdiscount
 highlighter: pygments
 permalink: /:year/:title.html
-name: "给兔子小姐的情书们"
+name: "给兔子的小故事"
 markdown: redcarpet
 #markdown: rdiscount
 
