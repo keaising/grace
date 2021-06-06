@@ -1,13 +1,11 @@
 markdown: rdiscount
-highlighter: pygments
+highlighter: rouge
 permalink: /:year/:title.html
 name: "给兔子的小故事"
-markdown: redcarpet
-#markdown: rdiscount
+markdown: kramdown
 
 author: "大河萌虎"
-atom-baseurl: "http://grace.shuxiao.wang"
-disqus: "gopherwood"
+atom-baseurl: "https://grace.shuxiao.wang"
 
 navigations:
   - title: Archive
